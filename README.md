@@ -33,14 +33,17 @@ This is a simple responsive portfolio website for a web developer/web designer. 
 ## File Structure
 
 ├── index.html
+
 ├── README.md
+
 └── assets/
+
 ├── images/
+
 ├── WhatsApp Image 2025-08-09 at 7.06.38 PM.jpeg
+
 └── other images...
 
-yaml
-Copy code
 
 ---
 
