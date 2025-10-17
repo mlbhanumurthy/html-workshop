@@ -62,7 +62,3 @@ This project is open source and free to use for your personal portfolio.
 ## Contact
 
 Feel free to reach out if you'd like to collaborate or learn more!
-
----
-
-*This README was generated based on the provided HTML code snippet.*
