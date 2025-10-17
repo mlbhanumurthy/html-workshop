@@ -19,3 +19,18 @@ xl 1355-1586px
 xxl >=1586px
 
 Smart Phones : 375-436px
+
+Syntax:
+@media (screensize)
+{
+  selector
+  {
+    proprty:value;
+    property:value;
+  }
+}
+screen-size max-width,min-width;
+max-width : 768px the screen size will be selected from 0-768px
+min-width : 576px similarly
+
+
