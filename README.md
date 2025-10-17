@@ -32,3 +32,37 @@ This is a simple responsive portfolio website for a web developer/web designer. 
 
 ## File Structure
 
+├── index.html
+├── README.md
+└── assets/
+├── images/
+├── WhatsApp Image 2025-08-09 at 7.06.38 PM.jpeg
+└── other images...
+
+yaml
+Copy code
+
+---
+
+## Customization
+
+- Update the logo image by replacing the file in `assets/images/`.
+- Change the text content inside the HTML to reflect your personal information.
+- Add more sections like Skills, Projects, Testimonials, etc. as needed.
+- Customize styles in the `<style>` tag or move them to an external CSS file.
+
+---
+
+## License
+
+This project is open source and free to use for your personal portfolio.
+
+---
+
+## Contact
+
+Feel free to reach out if you'd like to collaborate or learn more!
+
+---
+
+*This README was generated based on the provided HTML code snippet.*
