@@ -1,0 +1,21 @@
+git init is used for Inintializing a Repository
+git add . is used for selecting all the files and folders which we are having
+git commit -m "message" is used to find out the type of version we are providing for an application and who is updating the code
+git branch -M main : Here main is default branch.By using a branch, we can identify the respective user
+git remote helps to access your respective repository from anywhere
+git push is used to push code files into github account
+
+Commands for updating the Content :
+Existing Repository : 
+git add . for adding repositories to make changes into existing code
+git commit -m "message" we are going to define a breakpoint(version) for updated code
+git push 
+
+sx 436-576px
+s 576-768px
+m 768-992px
+l 992-1366px
+xl 1355-1586px
+xxl >=1586px
+
+Smart Phones : 375-436px
